@@ -1,0 +1,21 @@
+# Real prospect lists and results contain other businesses' data: never commit them
+domains.txt
+prospects_scored.csv
+*_spotcheck.txt
+*_sample.csv
+*_sample_filled.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ...except the demo files, which contain only made-up data
+!sample_output/
+!sample_output/*
