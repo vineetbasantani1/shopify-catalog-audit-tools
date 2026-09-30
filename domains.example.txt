@@ -1,0 +1,4 @@
+# One store domain per line. Copy this file to domains.txt and replace the examples.
+# Lines starting with # are ignored.
+example-welding-supply.com
+example-tool-store.ca

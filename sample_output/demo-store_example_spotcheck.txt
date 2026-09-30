@@ -1,0 +1,23 @@
+Open each page and check whether the product really has no useful description or specs.
+Store: demo-store.example   Thin products: 40 of 60 (66.7%)
+
+https://demo-store.example/products/item-31
+    VIM Tools XZN631H Triple Square Impact Driver, 3/8" Sq. Dr., 9 mm
+https://demo-store.example/products/item-14
+    Ingersoll Rand 2236QTIMAX-R 1/2" Dr. Impact Wrench, 1500 Ft-lb, 7500 RPM, 20V
+https://demo-store.example/products/item-38
+    Ingersoll Rand 2236QTIMAX-R 1/2" Dr. Impact Wrench, 1500 Ft-lb, 7500 RPM, 20V
+https://demo-store.example/products/item-5
+    VIM Tools XZN605H Triple Square Impact Driver, 3/8" Sq. Dr., 7 mm
+https://demo-store.example/products/item-7
+    VIM Tools XZN607H Triple Square Impact Driver, 3/8" Sq. Dr., 9 mm
+https://demo-store.example/products/item-52
+    Ingersoll Rand 2236QTIMAX-R 1/2" Dr. Impact Wrench, 1500 Ft-lb, 7500 RPM, 20V
+https://demo-store.example/products/item-10
+    Ingersoll Rand 2236QTIMAX-R 1/2" Dr. Impact Wrench, 1500 Ft-lb, 7500 RPM, 20V
+https://demo-store.example/products/item-35
+    VIM Tools XZN635H Triple Square Impact Driver, 3/8" Sq. Dr., 9 mm
+https://demo-store.example/products/item-55
+    VIM Tools XZN655H Triple Square Impact Driver, 3/8" Sq. Dr., 9 mm
+https://demo-store.example/products/item-44
+    Ingersoll Rand 2236QTIMAX-R 1/2" Dr. Impact Wrench, 1500 Ft-lb, 7500 RPM, 20V
