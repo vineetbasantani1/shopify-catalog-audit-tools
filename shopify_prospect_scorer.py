@@ -11,7 +11,7 @@ Usage:
     python shopify_prospect_scorer.py domains.txt --max-pages 10 --delay 2 --out ranked.csv
     python shopify_prospect_scorer.py --demo            # offline test on built-in messy sample
 
-domains.txt: one domain per line (e.g. examplewelding.ca). Lines starting with # are ignored.
+domains.txt: one domain per line (e.g. examplehardware.ca). Lines starting with # are ignored.
 A .csv also works; the first column is used.
 
 Notes:

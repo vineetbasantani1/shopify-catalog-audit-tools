@@ -4,7 +4,7 @@
 
 ![language: Python 3.9+](https://img.shields.io/badge/language-Python_3.9%2B-B3141B?style=flat-square&labelColor=1B1F23) ![license: MIT](https://img.shields.io/badge/license-MIT-B3141B?style=flat-square&labelColor=1B1F23) ![access: read-only](https://img.shields.io/badge/access-read--only-B3141B?style=flat-square&labelColor=1B1F23)
 
-Two small Python tools for auditing the product data of Shopify stores, built for freelance data-cleanup work with independent tool, hardware, welding and auto-parts retailers.
+Two small Python tools for auditing the product data of Shopify stores, built for freelance data-cleanup work with independent tool and hardware retailers.
 
 - **`shopify_prospect_scorer.py`** reads the public `/products.json` of each store in a list and scores how messy the catalog is (duplicates, missing SKUs, vendor spelling variants, thin descriptions, inconsistent units).
 - **`thin_description_sampler.py`** finds products with missing or placeholder descriptions, draws a random sample, and writes a spot-check list plus a work sheet for rewriting them from manufacturer specs.
