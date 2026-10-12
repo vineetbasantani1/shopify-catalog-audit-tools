@@ -1,4 +1,8 @@
+![Shopify Catalog Audit Tools](assets/banner.png)
+
 # Shopify Catalog Audit Tools
+
+![language: Python 3.9+](https://img.shields.io/badge/language-Python_3.9%2B-B3141B?style=flat-square&labelColor=1B1F23) ![license: MIT](https://img.shields.io/badge/license-MIT-B3141B?style=flat-square&labelColor=1B1F23) ![access: read-only](https://img.shields.io/badge/access-read--only-B3141B?style=flat-square&labelColor=1B1F23)
 
 Two small Python tools for auditing the product data of Shopify stores, built for freelance data-cleanup work with independent tool, hardware, welding and auto-parts retailers.
 
